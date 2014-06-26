@@ -1,9 +1,9 @@
 All rights reserved by fea.
 
-TinyRUN
+TiniRUN
 =======
 
-TinyRUN include the testbench file and shell scipt to run TinyOS on TinySOC.
+TiniRUN include the testbench file and shell scipt to run TiniOS on TiniSOC.
 You can notice the `Quick Start` to run the file.
 
 Quick Start
@@ -19,6 +19,6 @@ Quick Start
 
 * GTKWave v3.3.34
 
-* Put the TinySOC, TinyOS, TinyRUN in the same directory
+* Put the TiniSOC, TiniOS, TiniRUN in the same directory
 
 * `. run.sh` to start

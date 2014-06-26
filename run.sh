@@ -1,6 +1,6 @@
 #!/bin/bash
-tinyos_dir=../TinyOS
-tinysoc_dir=../TinySOC
+tinyos_dir=../TiniOS
+tinysoc_dir=../TiniSOC
 make -C ${tinyos_dir} \
 && python ${tinyos_dir}/opr/opcode_check.py ${tinysoc_dir}/CPU/def/def_opcode.v ${tinyos_dir}/elf/main.list \
 && python ${tinyos_dir}/opr/binary_analyze.py ${tinyos_dir}/elf/main.bin mbin.prog \

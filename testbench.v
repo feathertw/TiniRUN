@@ -1,6 +1,6 @@
 `timescale 1ns/10ps
 
-`include "../TinySOC/soc.v"
+`include "../TiniSOC/soc.v"
 `include "lib.v"
 
 `define PERIOD 10
