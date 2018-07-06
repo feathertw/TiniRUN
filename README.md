@@ -13,7 +13,7 @@ Quick Start
 
 * Icarus Verilog 0.9.5
 
-* [nds32le-linux-glibc-V1](http://goo.gl/Kvdpu1) toolchain 2009 version
+* [nds32le-linux-glibc-V1](https://goo.gl/5awLBV) toolchain 2009 version
 
 * Python 2.7.3
 
